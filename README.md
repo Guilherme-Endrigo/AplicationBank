@@ -5,7 +5,7 @@ uma aplicação que simula um app. bancário.
 
 ## Funcionalidades
 
-Crie as funcionalidades: abrir conta, sacar, depositar, transferência, investir, consultar sald
+Crie as funcionalidades: abrir conta, sacar, depositar, transferência, investir, consultar saldo
 
 
 ## Descrição
